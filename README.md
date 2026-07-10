@@ -1,4 +1,4 @@
-# AWS Cloud Resume Challenge
+# AWS Cloud Resume 
 
 This repository contains the source code and Infrastructure as Code (IaC) for my personal portfolio website, deployed entirely on Amazon Web Services (AWS).
 
